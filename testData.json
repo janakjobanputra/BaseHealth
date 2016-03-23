@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "yearOfBirth": "1932",
+    "ethnicity": "caucasian",
+    "genotypes":
+    {
+        "rs4951039": "AA",
+        "rs11118883": "AG",
+        "rs10936599": "CC",
+        "rs8752": "CT",
+        "rs16892766":"AA",
+        "rs6983267":"TG",
+        "rs10795668":"TG"
+    },
+    "hasBeenDiagnosedWith":
+    {
+        "type2Diabetes": "yes"
+    }
+}
